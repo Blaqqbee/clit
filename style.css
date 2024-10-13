@@ -1,6 +1,7 @@
 body{
     background-image:url(11baxg5J.jpeg);
-    background-size: auto;
+    width : 50%;
+    background-size: contain;
     
 }
 p{
