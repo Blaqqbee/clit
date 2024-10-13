@@ -1,0 +1,13 @@
+body{
+    background-image:url(butterfly.jpeg);
+    background-size: auto;
+    
+}
+p{
+    font-size: 1.5em;
+    color: blue;
+    margin: 10px;
+}
+h1{
+    text-align: center;
+}
